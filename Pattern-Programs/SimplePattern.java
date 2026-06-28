@@ -10,10 +10,3 @@ public class SimplePattern {
     }
 }
 
-/*
-C:\Users\pooja\Desktop\GitDemo\CoreJava-Practice\Pattern-Programs>java SimplePattern     
-*
-**
-***
-****
- */
